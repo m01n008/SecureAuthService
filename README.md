@@ -33,7 +33,7 @@ A secure authentication microservice built with Spring Boot that implements JWT-
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/SecureAuthService.git
+   git clone https://github.com/m01n008/SecureAuthService.git
    cd SecureAuthService
 
 
