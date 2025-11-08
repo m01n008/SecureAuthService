@@ -1,4 +1,3 @@
-SecureAuthService README
 # SecureAuthService
 
 A secure authentication microservice built with Spring Boot that implements JWT-based authentication with token refresh support. Designed to be containerized with Docker and integrated with a CI/CD pipeline for rapid and secure deployments.
